@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-birthday_reminder/static/css/main.20e97fa2.chunk.css",
+    "main.js": "/react-birthday_reminder/static/js/main.067b8531.chunk.js",
+    "main.js.map": "/react-birthday_reminder/static/js/main.067b8531.chunk.js.map",
+    "runtime-main.js": "/react-birthday_reminder/static/js/runtime-main.f454caae.js",
+    "runtime-main.js.map": "/react-birthday_reminder/static/js/runtime-main.f454caae.js.map",
+    "static/js/2.2f9e4d83.chunk.js": "/react-birthday_reminder/static/js/2.2f9e4d83.chunk.js",
+    "static/js/2.2f9e4d83.chunk.js.map": "/react-birthday_reminder/static/js/2.2f9e4d83.chunk.js.map",
+    "index.html": "/react-birthday_reminder/index.html",
+    "static/css/main.20e97fa2.chunk.css.map": "/react-birthday_reminder/static/css/main.20e97fa2.chunk.css.map",
+    "static/js/2.2f9e4d83.chunk.js.LICENSE.txt": "/react-birthday_reminder/static/js/2.2f9e4d83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f454caae.js",
+    "static/js/2.2f9e4d83.chunk.js",
+    "static/css/main.20e97fa2.chunk.css",
+    "static/js/main.067b8531.chunk.js"
+  ]
+}
